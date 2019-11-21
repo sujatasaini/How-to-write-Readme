@@ -54,3 +54,8 @@ Credits
 
 * Alexandre Fiori for the awesome http://freegeoip.net web api
 * MaxMind for the data
+
+
+References
+=====
+http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/
